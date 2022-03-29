@@ -11,6 +11,7 @@ public class Main {
         float f = 76.98f;
         double d = 437.77;
         System.out.println();
+        System.out.println();
 
 
         // Задание 2
