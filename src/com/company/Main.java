@@ -12,6 +12,7 @@ public class Main {
         double d = 437.77;
         System.out.println();
 
+
         // Задание 2
         double boxerOne = 78.2;
         double boxerTwo = 82.7;
